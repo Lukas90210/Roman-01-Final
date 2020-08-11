@@ -1,0 +1,12 @@
+Just add:
+
+yarn
+yarn add node-sass
+yarn add react-router react-router-dom
+
+yarn global add netlify-cli
+yarn build
+netlify deploy 
+(nie działa...)
+
+yarn start
